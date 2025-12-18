@@ -1,4 +1,4 @@
-public class rev_traversal
+public class evn_traversal
 {
   public static void even_traversal (int [] arr)
   {
